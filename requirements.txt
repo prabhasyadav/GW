@@ -3,3 +3,4 @@ matplotlib==3.*
 scipy==1.2.*
 panel==0.6.*
 ipysheet==0.4.*
+pandas==0.24.*
