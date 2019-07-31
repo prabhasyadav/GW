@@ -6,3 +6,4 @@ ipysheet==0.4.*
 pandas==0.24.*
 rise==5.5.*
 jupyter-contrib-nbextensions==0.5.*
+ipywidgets==7.5.*
