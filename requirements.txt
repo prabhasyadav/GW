@@ -8,3 +8,4 @@ rise
 jupyter-contrib-nbextensions
 ipywidgets
 ipympl
+mpmath
